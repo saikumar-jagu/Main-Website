@@ -1003,4 +1003,13 @@ blockquote {
     right: -140px;
     max-width: 425px;
   }
+  .illustrations-1 {
+    left: 0 !important;
+    max-width: 275px;
+  }
+  .illustrations-2 {
+    max-width: 275px;
+    right: -45px !important;
+    bottom: 25px !important;
+  }
 }
